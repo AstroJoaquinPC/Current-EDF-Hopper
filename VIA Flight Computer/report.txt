@@ -1,0 +1,24 @@
+Info: X scale constrained.
+Info: Y scale constrained.
+Plotted to 'C:\Users\joaqu\OneDrive\Documents\Current V1 (EDF Hopper)\VIA Flight Computer\VIA Flight Computer-F_Cu.gbr'.
+Plotted to 'C:\Users\joaqu\OneDrive\Documents\Current V1 (EDF Hopper)\VIA Flight Computer\VIA Flight Computer-B_Cu.gbr'.
+Plotted to 'C:\Users\joaqu\OneDrive\Documents\Current V1 (EDF Hopper)\VIA Flight Computer\VIA Flight Computer-F_Paste.gbr'.
+Plotted to 'C:\Users\joaqu\OneDrive\Documents\Current V1 (EDF Hopper)\VIA Flight Computer\VIA Flight Computer-B_Paste.gbr'.
+Plotted to 'C:\Users\joaqu\OneDrive\Documents\Current V1 (EDF Hopper)\VIA Flight Computer\VIA Flight Computer-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\joaqu\OneDrive\Documents\Current V1 (EDF Hopper)\VIA Flight Computer\VIA Flight Computer-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\joaqu\OneDrive\Documents\Current V1 (EDF Hopper)\VIA Flight Computer\VIA Flight Computer-F_Mask.gbr'.
+Plotted to 'C:\Users\joaqu\OneDrive\Documents\Current V1 (EDF Hopper)\VIA Flight Computer\VIA Flight Computer-B_Mask.gbr'.
+Plotted to 'C:\Users\joaqu\OneDrive\Documents\Current V1 (EDF Hopper)\VIA Flight Computer\VIA Flight Computer-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\joaqu\OneDrive\Documents\Current V1 (EDF Hopper)\VIA Flight Computer\VIA Flight Computer-job.gbrjob'.
+Plotted to 'C:\Users\joaqu\OneDrive\Documents\Current V1 (EDF Hopper)\VIA Flight Computer\VIA Flight Computer-F_Cu.gbr'.
+Plotted to 'C:\Users\joaqu\OneDrive\Documents\Current V1 (EDF Hopper)\VIA Flight Computer\VIA Flight Computer-B_Cu.gbr'.
+Plotted to 'C:\Users\joaqu\OneDrive\Documents\Current V1 (EDF Hopper)\VIA Flight Computer\VIA Flight Computer-F_Paste.gbr'.
+Plotted to 'C:\Users\joaqu\OneDrive\Documents\Current V1 (EDF Hopper)\VIA Flight Computer\VIA Flight Computer-B_Paste.gbr'.
+Plotted to 'C:\Users\joaqu\OneDrive\Documents\Current V1 (EDF Hopper)\VIA Flight Computer\VIA Flight Computer-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\joaqu\OneDrive\Documents\Current V1 (EDF Hopper)\VIA Flight Computer\VIA Flight Computer-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\joaqu\OneDrive\Documents\Current V1 (EDF Hopper)\VIA Flight Computer\VIA Flight Computer-F_Mask.gbr'.
+Plotted to 'C:\Users\joaqu\OneDrive\Documents\Current V1 (EDF Hopper)\VIA Flight Computer\VIA Flight Computer-B_Mask.gbr'.
+Plotted to 'C:\Users\joaqu\OneDrive\Documents\Current V1 (EDF Hopper)\VIA Flight Computer\VIA Flight Computer-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\joaqu\OneDrive\Documents\Current V1 (EDF Hopper)\VIA Flight Computer\VIA Flight Computer-job.gbrjob'.
+Info: Done.
+Info: Done.

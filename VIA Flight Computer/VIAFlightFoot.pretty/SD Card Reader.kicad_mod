@@ -1,0 +1,209 @@
+(footprint "SD Card Reader"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "6b88d6d0-8188-4e7a-9399-5cd60c03b1da")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "SD Card Reader"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b17c3904-449e-4148-b8bb-0abbbec04e6a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6e1e9e56-a7d0-433c-b643-0388a105b970")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "02a6628f-4811-4b69-8079-7eecb00c41a7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_rect
+		(start 0 0)
+		(end 17.9 17.9)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "493f889b-06c4-4182-b879-22b39ef77a51")
+	)
+	(fp_rect
+		(start 12.7 0)
+		(end 15.24 2.54)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "44742c1b-b0fc-4f52-bf76-40defc550532")
+	)
+	(fp_text user "GND"
+		(at 1.27 6.35 90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "f4882092-1656-4784-ba05-550216430ac5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "MISO"
+		(at 3.81 6.35 90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "9b2742cf-77ff-4972-9867-5e724e06acfc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "CLK"
+		(at 6.35 6.35 90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "0191c91f-15e0-4312-a7c2-75bf71789961")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "MOSI"
+		(at 8.89 6.35 90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "d4599db3-97b0-4be1-97ab-cae776f0be10")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "CS"
+		(at 11.43 6.35 90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "c0ee3c4c-b891-4260-ae73-cbc42f06129c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "3.3V"
+		(at 13.97 6.35 90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "73bf7d71-1a27-463d-a209-e2b4ca871305")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 1.27 1.27)
+		(size 1.27 1.27)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "0377e756-e7ce-4298-96f1-be25c1fcc1c2")
+	)
+	(pad "2" thru_hole circle
+		(at 3.81 1.27)
+		(size 1.27 1.27)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "18c9d9de-7fbe-403f-8ad5-23eff78fb257")
+	)
+	(pad "3" thru_hole circle
+		(at 6.35 1.27)
+		(size 1.27 1.27)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "7546154f-b4c4-445e-adb9-f34d386ba47e")
+	)
+	(pad "4" thru_hole circle
+		(at 8.89 1.27)
+		(size 1.27 1.27)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "34396c94-ef6e-4c67-934f-2955b4827f0c")
+	)
+	(pad "5" thru_hole circle
+		(at 11.43 1.27)
+		(size 1.27 1.27)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "cd4cc26e-2e7f-4539-b75b-72056a48e1a8")
+	)
+	(pad "6" thru_hole rect
+		(at 13.97 1.27)
+		(size 1.27 1.27)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "1c08c2cb-633c-4ed9-8b0b-192c1160f312")
+	)
+	(embedded_fonts no)
+)
